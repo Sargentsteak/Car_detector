@@ -1,5 +1,5 @@
 # Car_detector
-A basic car detection algorithm 
+A basic car detection algorithm . It can detect cars from a static image. 
 1. Its a basic algorithm which detects cars with 80 % accuracy.
 2. Just import opencv using the command 
     pip install opencv-python
